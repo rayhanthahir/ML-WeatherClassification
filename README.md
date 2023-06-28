@@ -1,4 +1,4 @@
-# ML-WeatherPrediction
+# ML-WeatherClassification
 Weather prediction using data from website data scarpping weather underground.
 Dataset Source: https://www.wunderground.com/history/daily/ng/calabar-municipal/DNCA/date/2022-1-1
 
